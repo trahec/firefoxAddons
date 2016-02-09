@@ -1,0 +1,16 @@
+{
+  "title": "Leo Search",
+  "name": "leosearch",
+  "version": "0.0.1",
+  "description": "Highlight word and right click to search leo",
+  "main": "index.js",
+  "author": "trahec",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
