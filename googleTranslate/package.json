@@ -1,0 +1,17 @@
+{
+  "title": "Google Translate Context Menu Addon",
+  "name": "googletranslatesearch",
+  "version": "0.0.1",
+  "description": "Highlight a word and right click to tranlate in google translate",
+  "main": "index.js",
+  "author": "trahec",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "google",
+    "translate"
+  ]
+}
